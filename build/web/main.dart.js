@@ -51597,7 +51597,7 @@ A.x0.prototype={
 aC(){return new A.Jm(B.m)}}
 A.Jm.prototype={
 R(a,b){var s=null,r=new A.a0g(this),q=t.w,p=b.a6(q).f
-p=A.zJ("/images/background.png",B.t8,b.a6(q).f.a.b,p.a.a)
+p=A.zJ("images/background.png",B.t8,b.a6(q).f.a.b,p.a.a)
 q=t.E
 r=A.a5L(A.a([A.T7(A.a([A.zJ("images/logo.png",s,40,72),A.T7(A.a([r.$2$index$title(0,"Guides"),A.jh(s,s,50),r.$2$index$title(1,"Pricing"),A.jh(s,s,50),r.$2$index$title(2,"Teams"),A.jh(s,s,50),r.$2$index$title(3,"Stories")],q),B.pt,B.c3),A.zJ("images/btn_login.png",s,53,163)],q),B.pt,B.c3),A.jh(s,76,s),A.zJ("images/ilustrasi.png",s,450,s),A.jh(s,30,s),A.T7(A.a([A.zJ("images/iconmore.png",s,24,24),A.jh(s,s,15),A.a7H("Scroll to Learn More",$.abQ(),s,s)],q),B.AY,B.c3)],q),B.c3)
 return new A.tr(A.CY(B.ct,A.a([p,new A.kJ(new A.bT(100,30,100,30),new A.CB(!0,r,s),s)],q),B.dx),!1,s)}}
